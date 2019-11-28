@@ -1,4 +1,4 @@
-# [ArghyaChatterjee.github.io](https://arghyaahatterjee.github.io)
+# [ArghyaChatterjee.github.io](https://arghyachatterjee.github.io)
 
 ## Personal portfolio website
 
