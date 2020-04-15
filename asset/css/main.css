@@ -86,6 +86,7 @@ body, html {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background-color: #fff;
+    background: url(../img/background.png)
     color: #444452;
     font-family: Apercu, "Source Sans Pro", system, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.5;
@@ -108,7 +109,7 @@ body.night ::selection, html.night ::selection {
 }
 
 body.night .switch-wrapper .sun, html.night .switch-wrapper .sun {
-    background: url(../img/background.png) no-repeat center;
+    background: url(../img/switch/sun-white.svg) no-repeat center;
     background-size: 100%
 }
 
